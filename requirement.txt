@@ -1,0 +1,12 @@
+PyMuPDF
+gradio
+langchain
+Pillow      
+torch        
+transformers
+PyYAML
+chromadb
+pypdf
+Jinja2
+accelerate
+sentence-transformers
